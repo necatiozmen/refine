@@ -17,7 +17,7 @@ import TabItem from '@theme/TabItem';
 
 ## Introduction
 
-This tutorial will go through process of building a simple _admin panel_ for a _CMS-like_ application with headless.
+This tutorial will go through a standard process of building a simple _admin panel_ for a _CMS-like_ application using **refine**'s headless core combined with TailwindCSS.
 
 Step by step, you're going to learn how to consume a _REST API_ and add basic CRUD functionality to your panel leveraging the unique capabilities of **refine**.
 
